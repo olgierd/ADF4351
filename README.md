@@ -19,7 +19,7 @@ Code to control your ADF4351 board using Arduino. Written from scratch using off
 * `w/e` -/+ 1 kHz
 * `2/3` -/+ 10 kHz
 * `1/4` -/+ 100 kHz
-* `5/6` -/+ 1 MHz
+* `5/6` -/+ 10 MHz
 * `/` toggle RF output
 * `+` increase RF power
 
