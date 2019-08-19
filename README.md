@@ -46,5 +46,3 @@ Even when `rf_ena` is set to `0`, the PLL is running and you can expect more tha
 I'm using this code to directly generate CW on QO-100, so the serial port output shows the downlink frequency (+10489000 kHz) in brackets:
 
 `FREQ: 2400060100 ( 560.50 )`
-
-You can disable it.
